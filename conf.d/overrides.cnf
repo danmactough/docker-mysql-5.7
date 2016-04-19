@@ -8,4 +8,4 @@ long_query_time=5
 max_allowed_packet=16777216
 performance_schema=1
 slow_query_log=1
-tx_isolation=READ-COMMITTED
+transaction-isolation=READ-COMMITTED
